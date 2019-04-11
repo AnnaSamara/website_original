@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Tim Schoof** on Personal website</title>
+    <link>/authors/tim-schoof/</link>
+    <description>Recent content in **Tim Schoof** on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 12 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/tim-schoof/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The role of auditory and cognitive factors in understanding speech in noise by normal-hearing older listeners.</title>
+      <link>/publication/paper_no6/</link>
+      <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/paper_no6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

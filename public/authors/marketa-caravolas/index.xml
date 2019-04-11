@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketa Caravolas on Personal website</title>
+    <link>/authors/marketa-caravolas/</link>
+    <description>Recent content in Marketa Caravolas on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara&amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/marketa-caravolas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial grammar learning in dyslexic and nondyslexic adults: Implications for orthographic learning</title>
+      <link>/publication/ssr-paper/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ssr-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Read and Spell Words in Different Writing Systems</title>
+      <link>/publication/chapter/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical learning of novel graphotactic constraints in children and adults</title>
+      <link>/publication/2014-paper/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

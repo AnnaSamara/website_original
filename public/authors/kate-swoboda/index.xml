@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate Swoboda on Personal website</title>
+    <link>/authors/kate-swoboda/</link>
+    <description>Recent content in Kate Swoboda on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/kate-swoboda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language learning, language use, and the evolution of linguistic variation</title>
+      <link>/publication/transactions_paper/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/transactions_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

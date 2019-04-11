@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helen Brown on Personal website</title>
+    <link>/authors/helen-brown/</link>
+    <description>Recent content in Helen Brown on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/helen-brown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantic cues in language learning: An artificial language study with adult and child learners</title>
+      <link>/publication/jml_under-review/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jml_under-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acquiring variation in an artificial language: Children and adults are sensitive to socially conditioned linguistic variation</title>
+      <link>/publication/cognitive_psychology/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cognitive_psychology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

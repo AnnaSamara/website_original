@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>context-based patterns on Personal website</title>
+    <link>/tags/context-based-patterns/</link>
+    <description>Recent content in context-based patterns on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara&amp;copy; {year}</copyright>
+    
+	<atom:link href="/tags/context-based-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spelling as statistical learning</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>Spelling is a complex and challenging task, particularly in orthographies where letters and sounds do not have one-to-one correspondence (e.g., in English, vowel sounds can be spelled in as many as five different ways). In line with increasing evidence that memorization and explicit learning skills do not suffice for competent spelling skill to develop, I have been investigating spellers’ frequency-based sensitivity: For example, can beginner spellers pick up on untaught orthographic conventions (e.</description>
+    </item>
+    
+  </channel>
+</rss>

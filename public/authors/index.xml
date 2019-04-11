@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Personal website</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anna Samara&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>**Anna Samara**</title>
+      <link>/authors/anna-samara/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anna-samara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy Perfors</title>
+      <link>/authors/amy-perfors/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amy-perfors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Samara</title>
+      <link>/authors/anna-samara/</link>
+      <pubDate>Mon, 25 Jun 2018 13:00:00 +0100</pubDate>
+      
+      <guid>/authors/anna-samara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniela Singh</title>
+      <link>/authors/daniela-singh/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniela-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth Wonnacott</title>
+      <link>/authors/elizabeth-wonnacott/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/elizabeth-wonnacott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen Brown</title>
+      <link>/authors/helen-brown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/helen-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo Saul</title>
+      <link>/authors/jo-saul/</link>
+      <pubDate>Wed, 28 Jun 2017 13:00:00 +0100</pubDate>
+      
+      <guid>/authors/jo-saul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kate Swoboda</title>
+      <link>/authors/kate-swoboda/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kate-swoboda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenny Smith</title>
+      <link>/authors/kenny-smith/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/kenny-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketa Caravolas</title>
+      <link>/authors/marketa-caravolas/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/marketa-caravolas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Feher</title>
+      <link>/authors/olga-feher/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/olga-feher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
