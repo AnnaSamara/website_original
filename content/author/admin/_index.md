@@ -46,4 +46,3 @@ user_groups:
 
 I am a Postdoctoral Research Associate at the [Language Learning lab] (https://languagelearninglab-ucl.com/), UCL. Currently, I work on the ERC funded project, awarded to Professor Ben Ambridge (University of Liverpool), that investigates the retreat from overgeneralization in child language acquisition.
 
-More broadly, I am interested in the role of frequency-based or *statistical learning* in spoken and written language. For example, my doctoral work investigates links between this process and beginner spellers ability to pick up on untaught orthographic 'rules'; other previous work uses a statistical learning framework to compare children’s and adults’ learning of sociolinguistic variation (variable forms cued by speaker identity).
