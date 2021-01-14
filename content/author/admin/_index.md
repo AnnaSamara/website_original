@@ -2,7 +2,7 @@
 authors:
 education:
   courses:
-  - course: PhD Psychology
+  - course: PhD in Psychology
     institution: Bangor University, UK
     year: 2014
   - course: MSc Cognitive Neuropsychology
