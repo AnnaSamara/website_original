@@ -19,9 +19,9 @@ interests:
 - Dyslexia
 name: Anna Samara
 organizations:
-- name: University College London
+- name: University of Greenwich
   url: ""
-role: Postdoctoral Research Associate
+role: Lecturer in Psychology
 social:
 - icon: envelope
   icon_pack: fas
