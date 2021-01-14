@@ -43,9 +43,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Lecturer in Psychology at University of Greenwich since August 2019. Before that, I worked as a postdoctoral Research Associate at University College London (UCL) and the University of Liverpool on a number of projects that investigate children’s ability to extract statistical patterns from spoken input. Some of this work (2014-2017; UCL) looked at children’s ability to learn sociolinguistic cues that condition the use of variation in natural languages. Other ongoing work (2017- present; UCL & Liverpool) investigates the types of linguistic input that discourage children from producing ungrammatical sentences such as “The funny clown laughed the man”.
 
-I am a cognitive psychologist interested in literacy and language development and impairment. I completed my PhD in Psychology in 2014 at Bangor University (UK). My doctoral research, funded by a Marie Curie Initial Training Network initiative, investigated children’s and adults learning’ of probabilistic relationships within and between sounds and letter combinations by implicit vs. explicit learning processes.
-I joined the University of Greenwich as a Lecturer in Psychology in August 2019. Before that, I worked as a postdoctoral Research Associate at University College London (UCL) and the University of Liverpool on a number of projects that investigate children’s ability to extract statistical patterns from spoken input. Some of this work (2014-2017; UCL) looked at children’s ability to learn sociolinguistic cues that condition the use of variation in natural languages. Other ongoing work (2017- present; UCL & Liverpool) investigates the types of linguistic input that discourage children from producing ungrammatical sentences such as “The funny clown laughed the man”.
-As a Lecturer in Psychology, I teach developmental and cognitive psychology modules at both undergraduate and postgraduate levels and offer BSc and MSc supervision in these areas. I am also Programme Leader for the MSc Child and Adolescent Psychology.
+ I completed my PhD in Psychology in 2014 at Bangor University (UK). My doctoral research, funded by a Marie Curie Initial Training Network initiative, investigated children’s and adults learning’ of probabilistic relationships within and between sounds and letter combinations by implicit vs. explicit learning processes.
+
+I teach developmental and cognitive psychology modules at both undergraduate and postgraduate levels and offer BSc and MSc supervision in these areas. I am also Programme Leader for the MSc Child and Adolescent Psychology (https://www.gre.ac.uk/postgraduate-courses/eduhea/childadolpsych).
 
 
