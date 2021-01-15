@@ -22,5 +22,5 @@ counterpart: Examples from artificial orthography experiments and implications f
 url_code: ""
 url_pdf: "files/webinar_final.pdf"
 url_slides: ""
-url_video: ""
+url_video: "Anna_Samara.mp4"
 ---

@@ -17,8 +17,8 @@ authors = ["Helen Brown", "Kenny Smith", "**Anna Samara**", "Elizabeth Wonnacott
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Memory and Language*, under review"
-#publication_short = "In *JML*"
+publication = "*Language, Cognition, & Neuroscience*, under review"
+#publication_short = "In *Language, Cognition, & Neuroscience*"
 
 # Abstract and optional shortened version.
 abstract = "Grammatical categories correlate with semantics cues; however, semantic cues seem to pose difficulties for child learners. We explore whether 6-year-olds and adults generalize over semantic cues, and how this is affected by the extent of exposure (1v4 sessions) and the number of exemplars for each semantic class (type-frequency). Participants were exposed to semi-artificial languages in which nouns co-occurred with novel particles, with particle usage either fully or partially determined by a semantic property of the noun. Subsequent production and comprehension tests showed that both adults and children generalized semantic cues to novel nouns when cues were fully consistent. Adults (but not children) also generalized when cues were partially consistent. However, although generalization increased with exposure, there was no evidence for a role of type-frequency (i.e. no greater generalization when there were more nouns per category). In addition, post-experiment interviews suggested that successful generalization was dependent upon explicit awareness. These results suggest that the usage of semantic cues in first language acquisition may be limited in children."
