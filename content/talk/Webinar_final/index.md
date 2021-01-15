@@ -15,7 +15,7 @@ math: true
 projects: []
 publishDate: "2020-01-01T00:00:00Z"
 slides:
-summary: Bayes factor analyses with informed priors: Examples from artificial orthography experiments and implications for literacy research
+summary: Bayes factor analyses with informed priors. Examples from artificial orthography experiments and implications for literacy research
 tags: []
 title: 
 url_code: ""
