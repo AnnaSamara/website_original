@@ -1,5 +1,5 @@
 ---
-date:
+date: ongoing
 external_link: ""
 image:
   caption:
