@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "My research"
-subtitle = ""
+title = "Teaching resources"
+subtitle = "Under construction"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "resources"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,16 +22,20 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Miscellaneous"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Spoken language"
-    tag = "spoken language"
+    name = "Literacy development"
+    tag = "literacy"
   
   [[content.filter_button]]
-    name = "Written language"
-    tag = "written language"
+    name = "Developmental dyslexia"
+    tag = "dyslexia"
+
+  [[content.filter_button]]
+    name = "Numeracy development & disorders"
+    tag = "numeracy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
