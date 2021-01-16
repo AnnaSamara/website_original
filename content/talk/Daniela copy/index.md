@@ -3,7 +3,7 @@ abstract: to do.
 all_day: false
 authors: ["Anna Samara"]
 date: "2018-06-25T13:00:00+01:00"
-date_end: "2018-06-26T15:00:00+01:00"
+date_end: "2020-06-26T15:00:00+01:00"
 event: Conferences
 event_url: 
 featured: false
