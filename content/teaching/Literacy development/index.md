@@ -1,25 +1,25 @@
 ---
-abstract: A recent poster presentation on our ongoing work on implicit vs. explicit learning of purely visual orthographic constraints. Presented by PhD student Daniela Singh at the Child Language Symposium.
+abstract: 
 all_day: false
-authors: ["Daniela Singh", "Anna Samara", "Elizabeth Wonnacott"]
-date: "2018-06-25T13:00:00+01:00"
-date_end: "2018-06-26T15:00:00+01:00"
-event: Conferences
+authors: ["Anna Samara"]
+date: "2020-06-25T13:00:00+01:00"
+date_end: "2020-06-26T15:00:00+01:00"
+event: =
 event_url: 
 featured: false
 image:
   caption: 
   focal_point: Right
-location: Reading, United Kindgdom
+location: =
 math: true
 projects: []
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 slides:
 summary: 
 tags: []
 title: 
 url_code: ""
-url_pdf: "files/numeracy_lecture_part1.pdf"
+url_pdf: "files/literacy_lecture_part1.pdf"
 url_slides: ""
 url_video: ""
 ---
