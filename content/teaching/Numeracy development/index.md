@@ -4,7 +4,7 @@ all_day: false
 authors: ["Anna Samara"]
 date: "2020-06-25T13:00:00+01:00"
 date_end: "2020-06-01T15:00:00+01:00"
-event: Conferences
+event:
 event_url: 
 featured: false
 image:
