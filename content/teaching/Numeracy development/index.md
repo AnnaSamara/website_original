@@ -20,7 +20,7 @@ tags: []
 title: Numeracy development
 counterpart:
 url_code: ""
-url_pdf: "Developmental_dyslexia_part1.pdf"
+url_pdf: "files/numeracy_lecture_part1.pdf"
 url_slides: ""
 url_video:
 ---

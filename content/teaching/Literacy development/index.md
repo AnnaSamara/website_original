@@ -15,12 +15,11 @@ math: true
 projects: []
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: A recent poster presentation on our ongoing work on implicit vs. explicit learning of purely visual orthographic constraints. Presented by PhD student Daniela Singh at the Child Language Symposium.
+summary: 
 tags: []
-title: Children’s sensitivity to novel graphotactic constraints with no phonological
-counterpart: Evidence from an incidental learning task.
+title: 
 url_code: ""
-url_pdf: "files/daniela.pdf"
+url_pdf: "files/numeracy_lecture_part1.pdf"
 url_slides: ""
 url_video: ""
 ---

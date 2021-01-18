@@ -17,9 +17,9 @@ publishDate: "2021-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: Typical literacy development
+title: Developmental dyslexia
 url_code: ""
-url_pdf: "files/literacy_lecture_part1.pdf"
+url_pdf: "files/Developmental_dyslexia_part1.pdf"
 url_slides: ""
 url_video:
 ---
