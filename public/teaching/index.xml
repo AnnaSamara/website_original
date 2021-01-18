@@ -1,77 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Personal website</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Personal website</description>
+    <title>Recent &amp; Upcoming Talks on Personal website</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Anna Samara&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 13:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Statistical learning and spelling: Evidence from an incidental learning experiment with children</title>
-      <link>/publication/cognition/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Children’s sensitivity to novel graphotactic constraints with no phonological</title>
+      <link>/talk/daniela/</link>
+      <pubDate>Mon, 25 Jun 2018 13:00:00 +0100</pubDate>
       
-      <guid>/publication/cognition/</guid>
+      <guid>/talk/daniela/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Semantic cues in language learning: An artificial language study with adult and child learners</title>
-      <link>/publication/jml_under-review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Spelling as statistical learning. Insights from artificial lexicon studies</title>
+      <link>/talk/oxford/</link>
+      <pubDate>Tue, 21 Nov 2017 13:00:00 +0100</pubDate>
       
-      <guid>/publication/jml_under-review/</guid>
+      <guid>/talk/oxford/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Acquiring variation in an artificial language: Children and adults are sensitive to socially conditioned linguistic variation</title>
-      <link>/publication/cognitive_psychology/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0100</pubDate>
+      <title>The role of memory constraints in regularization of unpredictable variation</title>
+      <link>/talk/jo-poster/</link>
+      <pubDate>Wed, 28 Jun 2017 13:00:00 +0100</pubDate>
       
-      <guid>/publication/cognitive_psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language learning, language use, and the evolution of linguistic variation</title>
-      <link>/publication/transactions_paper/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/transactions_paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial grammar learning in dyslexic and nondyslexic adults: Implications for orthographic learning</title>
-      <link>/publication/ssr-paper/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ssr-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Read and Spell Words in Different Writing Systems</title>
-      <link>/publication/chapter/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/chapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical learning of novel graphotactic constraints in children and adults</title>
-      <link>/publication/2014-paper/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2014-paper/</guid>
+      <guid>/talk/jo-poster/</guid>
       <description></description>
     </item>
     
