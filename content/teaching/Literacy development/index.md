@@ -20,7 +20,6 @@ tags: []
 title: Literacy development
 url_code: ""
 url_pdf: "files/literacy_lecture_part1.pdf"
-url_pdf: "files/literacy_lecture_part2.pdf"
 url_slides: ""
 url_video: ""
 ---
