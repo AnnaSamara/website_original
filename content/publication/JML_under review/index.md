@@ -1,6 +1,6 @@
 +++
 title = "Statistical and explicit learning of graphotactic patterns with no phonological counterpart: Evidence from an artificial lexicon study with 6–7-year-olds and adults"
-date = "2021-01-01T00:00:00+01:00"
+date = "under review"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniela Singh", "**Anna Samara**", "Elizabeth Wonnacott"]
@@ -39,7 +39,7 @@ projects = []
 #url_pdf = "Oxford_2017.pdf"
 url_preprint = "https://psyarxiv.com/8px7n/"
 #url_code = "#"
-url_dataset = "osf.io/qzwu5/"
+url_dataset = "https://osf.io/c42nq/"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
