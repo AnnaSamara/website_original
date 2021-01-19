@@ -1,9 +1,9 @@
 +++
-title = "Semantic cues in language learning: An artificial language study with adult and child learners"
-date = "2019-01-01T00:00:00+01:00"
+title = "Statistical and explicit learning of graphotactic patterns with no phonological counterpart: Evidence from an artificial lexicon study with 6–7-year-olds and adults"
+date = "2021-01-01T00:00:00+01:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Helen Brown", "Kenny Smith", "**Anna Samara**", "Elizabeth Wonnacott"]
+authors = ["Daniela Singh", "**Anna Samara**", "Elizabeth Wonnacott"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Helen Brown", "Kenny Smith", "**Anna Samara**", "Elizabeth Wonnacott
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Language, Cognition, & Neuroscience*, under review"
-#publication_short = "In *Language, Cognition, & Neuroscience*"
+publication = "*Journal of Memory and Language*, under review"
+
 
 # Abstract and optional shortened version.
-abstract = "Grammatical categories correlate with semantics cues; however, semantic cues seem to pose difficulties for child learners. We explore whether 6-year-olds and adults generalize over semantic cues, and how this is affected by the extent of exposure (1v4 sessions) and the number of exemplars for each semantic class (type-frequency). Participants were exposed to semi-artificial languages in which nouns co-occurred with novel particles, with particle usage either fully or partially determined by a semantic property of the noun. Subsequent production and comprehension tests showed that both adults and children generalized semantic cues to novel nouns when cues were fully consistent. Adults (but not children) also generalized when cues were partially consistent. However, although generalization increased with exposure, there was no evidence for a role of type-frequency (i.e. no greater generalization when there were more nouns per category). In addition, post-experiment interviews suggested that successful generalization was dependent upon explicit awareness. These results suggest that the usage of semantic cues in first language acquisition may be limited in children."
+abstract = "Children are powerful statistical spellers, showing sensitivity to untaught orthographic patterns. They can also learn novel written patterns with phonological counterparts via statistical learning processes, akin to those established for spoken language acquisition. It is unclear whether children can learn written (graphotactic) patterns which are unconfounded from correlated phonotactics. We address this question by inducing novel graphotactic learning under incidental versus explicit conditions. Across three artificial lexicon experiments, we exposed children and adults to letter strings ending either in singlets or doublets (that share the same pronunciation; e.g., s vs. ss) depending on the preceding vowel. In post-tests, children and adults incidentally generalized over such context-based constraints that varied in complexity. Explicit instruction further benefitted pattern generalization, supporting the practice of teaching spelling patterns, and there was a relationship between explicit learning and literacy scores. We are first to demonstrate that statistical learning processes underlie graphotactic generalizations among developing spellers."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,9 +37,9 @@ projects = []
 
 # Links (optional).
 #url_pdf = "Oxford_2017.pdf"
-url_preprint = "https://psyarxiv.com/7hq2c/"
+url_preprint = "https://psyarxiv.com/8px7n/"
 #url_code = "#"
-url_dataset = "https://osf.io/sy8zr/"
+url_dataset = "osf.io/qzwu5/"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
