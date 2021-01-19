@@ -1,6 +1,6 @@
 +++
 title = "Semantic cues in language learning: An artificial language study with adult and child learners"
-date = "2019-01-01T00:00:00+01:00"
+date = "2021-01-01T00:00:00+01:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Helen Brown", "Kenny Smith", "**Anna Samara**", "Elizabeth Wonnacott"]
