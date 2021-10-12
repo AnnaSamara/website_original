@@ -12,6 +12,7 @@ tags:
 - context-based patterns
 - dyslexia
 - written language
+- Artificial Language Learning
 title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""

@@ -7,7 +7,7 @@ image:
 summary: ""
 tags:
 - sociolinguistic learning
-- artificial language learning
+- Artificial Language Learning
 - language acquisition
 - linguistic variation
 - spoken language
