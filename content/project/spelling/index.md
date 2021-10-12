@@ -1,4 +1,7 @@
 ---
+
+url_custom = [{name = "slides1", url="files/numeracy_lecture_part1.pdf}, {name = "slides2", url="files/numeracy_lecture_part1.pdf"}]
+
 date:
 external_link: 
 image:
@@ -19,7 +22,6 @@ url_code: ""
 url_pdf: ""
 url_video: ""
 
-links = [{name = "slides1", url="files/numeracy_lecture_part1.pdf}, {name = "slides2", url="files/numeracy_lecture_part1.pdf"}]
 ---
 
 
