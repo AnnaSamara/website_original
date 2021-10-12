@@ -36,7 +36,10 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://reader.elsevier.com/reader/sd/pii/S0010028516301426?token=A22FCD6D3E75FE647BCF6816CB4983D4C5BA67E985B0270267EA2EA6F21026F7B25215CE3535F64E618492DF8D16E462"
+
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Samara et al. 2017", url = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"}]
+
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "http://osf.io/g67pe"
