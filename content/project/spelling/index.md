@@ -15,12 +15,12 @@ tags:
 - Artificial Language Learning
 title: Spelling as statistical learning
 url_code: ""
-url_pdf = url_custom
+url_custom: [{name = "Slides", url="files/literacy_lecture_part1.pdf"}, {name = "Slides2", url="files/literacy_lecture_part1.pdf"}]
 url_slides: ""
 url_video: ""
 
 
-url_custom: [{name = "Slides", url="files/literacy_lecture_part1.pdf"}, {name = "Slides2", url="files/literacy_lecture_part1.pdf"}]
+
 
 ---
 
