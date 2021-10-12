@@ -23,7 +23,7 @@ subtitle = "An overview of some of my ongoing research activity"
   
   [[content.filter_button]]
     name = "Artificial Language Learning"
-    tag = "artificial Language Learning"
+    tag = "*"
   
   [[content.filter_button]]
     name = "Spoken language"
