@@ -1,6 +1,6 @@
 +++
 title = "Statistical and explicit learning of graphotactic patterns with no phonological counterpart: Evidence from an artificial lexicon study with 6–7-year-olds and adults"
-date = "2021-11-01T00:00:00+01:00"
+date = "2021-12-01T00:00:00+01:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
@@ -27,7 +27,7 @@ abstract = "Children are powerful statistical spellers, showing sensitivity to u
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
