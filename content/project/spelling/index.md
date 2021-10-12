@@ -16,7 +16,7 @@ tags:
 title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
-url_slides: [{name = "Slides", url="path_to_slide.pdf"},{name = "Slides2", url="path_to_slide2.pdf"}]
+url_slides: "url_custom"
 url_video: ""
 
 
