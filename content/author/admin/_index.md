@@ -45,7 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). In my research, I study literacy and language acquisition processes using artificial language learning methods, that is experiments whereby children and adults learning experimenter designed miniatures language. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations. I am also interested in the underlying causes of developmental dyslexia and sociolinguistic development.
+I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). I study literacy and language acquisition processes using artificial language learning methods, that is, experiments whereby children and adults learning experimenter designed miniatures language. One central strand of my work investigates how children learn probabilistic relationships between sound and letter combinations but I am also interested in how different learning processes contribute to dyslexia and sociolinguistic development.
 
 
 I teach on language and literacy modules across Levels 4 to 7 and I am Programme Leader for the [MSc Child & Adolescent Psychology] (https://www.gre.ac.uk/postgraduate-courses/eduhea/childadolpsych).  
