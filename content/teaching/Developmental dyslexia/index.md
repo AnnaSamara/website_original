@@ -8,7 +8,7 @@ event: Teaching
 event_url: 
 featured: false
 image:
-  caption: 
+  caption: Lecture slides for an introductory lecture on developmental dyslexia (BSc Psychology)
   focal_point: Right
 location: 
 math: true
