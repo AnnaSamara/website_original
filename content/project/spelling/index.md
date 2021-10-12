@@ -1,6 +1,4 @@
-+++
-
-url_custom = [{name = "slides1", url="files/numeracy_lecture_part1.pdf}, {name = "slides2", url="files/numeracy_lecture_part1.pdf"}]
+---
 
 date:
 external_link: 
@@ -21,6 +19,7 @@ title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
 url_video: ""
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 ---
 
