@@ -1,9 +1,9 @@
 ---
-abstract: Guests lecture contributions to BSc Psychology and MSc Conversion modules at the Univerity of Greenwich"
+abstract: Guests lecture contributions to BSc Psychology and MSc Conversion modules at the University of Greenwich
 all_day: false
 authors: ["Anna Samara"]
-date: "2020-01-01T00:00:00+01:00"
-date_end: "2020-01-01T15:00:00+01:00"
+date: "2020-10-12"
+date_end: ""
 event: Teaching
 event_url: 
 featured: false
@@ -13,7 +13,7 @@ image:
 location: 
 math: true
 projects: []
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-10-12T00:00:00Z"
 slides:
 summary:
 tags: []
