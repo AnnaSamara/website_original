@@ -1,6 +1,6 @@
 +++
 title = "Statistical and explicit learning of graphotactic patterns with no phonological counterpart: Evidence from an artificial lexicon study with 6–7-year-olds and adults"
-date = "2021-12-01T00:00:00+01:00"
+date = 2021-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
@@ -14,11 +14,11 @@ authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of Memory and Language*"
-
+#publication_short = "In *JML*"
 
 # Abstract and optional shortened version.
 abstract = "Children are powerful statistical spellers, showing sensitivity to untaught orthographic patterns. They can also learn novel written patterns with phonological counterparts via statistical learning processes, akin to those established for spoken language acquisition. It is unclear whether children can learn written (graphotactic) patterns which are unconfounded from correlated phonotactics. We address this question by inducing novel graphotactic learning under incidental versus explicit conditions. Across three artificial lexicon experiments, we exposed children and adults to letter strings ending either in singlets or doublets (that share the same pronunciation; e.g., s vs. ss) depending on the preceding vowel. In post-tests, children and adults incidentally generalized over such context-based constraints that varied in complexity. Explicit instruction further benefitted pattern generalization, supporting the practice of teaching spelling patterns, and there was a relationship between explicit learning and literacy scores. We are first to demonstrate that statistical learning processes underlie graphotactic generalizations among developing spellers."
@@ -33,11 +33,11 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = [spelling]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0749596X21000486"
-url_preprint = "https://psyarxiv.com/8px7n/"
+#url_pdf = "https://www.sciencedirect.com/science/article/pii/S0749596X21000486"
+url_preprint = ""
 #url_code = "#"
 url_dataset = "https://osf.io/c42nq/"
 #url_project = "#"
