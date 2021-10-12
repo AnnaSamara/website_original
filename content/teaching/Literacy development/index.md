@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Lecture handouts used in a Level 6, BSc Psychology module "Child Psychology & Education"
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T13:00:00+01:00"
@@ -18,7 +18,8 @@ slides:
 summary: 
 tags: []
 title: Literacy development
-url_code: ""
+#url_code: ""
+links: [{name = "Slides", url="files/literacy_lecture_part1.pdf"}, {name = "Slides2", url="files/literacy_lecture_part1.pdf"}]
 url_pdf: "files/literacy_lecture_part1.pdf"
 url_slides: ""
 url_video: ""

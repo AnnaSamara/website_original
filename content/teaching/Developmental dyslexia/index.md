@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handout used in an introductory session on developmental dyslexia (BSc Psychology, Level 6)
+abstract: Lecture handouts used in a Level 6, BSc Psychology module "Child Psychology & Education"
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T00:00:00+01:00"
