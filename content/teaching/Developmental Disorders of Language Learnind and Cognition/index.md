@@ -24,5 +24,5 @@ url_pdf: "files/numeracy_lecture_part1.pdf"
 url_slides: ""
 url_video:
 
-url_custom = [{name = "slides2", url="files/numeracy_lecture_part1.pdf"}, {name = "slides3", url="files/numeracy_lecture_part1.pdf"}]
+url_custom: [{name = "slides2", url="files/numeracy_lecture_part1.pdf"}, {name = "slides3", url="files/numeracy_lecture_part1.pdf"}]
 ---
