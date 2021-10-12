@@ -19,7 +19,7 @@ title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
 url_video: ""
-url_custom: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+url_custom: "[{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]"
 
 ---
 
