@@ -11,7 +11,7 @@ tags:
 - language acquisition
 - linguistic variation
 title: Learning patterns of language usage
-url_pdf: "https://reader.elsevier.com/reader/sd/pii/S0010028516301426?token=A22FCD6D3E75FE647BCF6816CB4983D4C5BA67E985B0270267EA2EA6F21026F7B25215CE3535F64E618492DF8D16E462"
+url_custom = [{name = "Samara et al. 2017", url = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"}]
 url_slides: ""
 url_video: ""
 ---

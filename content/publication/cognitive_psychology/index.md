@@ -37,7 +37,8 @@ projects = []
 
 # Links (optional).
 
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]
+
 url_custom = [{name = "Samara et al. 2017", url = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"}]
 
 #url_preprint = ""
