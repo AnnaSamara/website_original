@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "My research"
-subtitle = "A brief overview of some ongoing research activity"
+subtitle = "An overview of some of my ongoing research activity"
 
 [content]
   # Page type to display. E.g. project.
@@ -33,9 +33,6 @@ subtitle = "A brief overview of some ongoing research activity"
     name = "Written language"
     tag = "written language"
 
-  [[content.filter_button]]
-    name = "Spelling"
-    tag = "spelling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
