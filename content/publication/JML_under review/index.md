@@ -1,6 +1,6 @@
 +++
 title = "Statistical and explicit learning of graphotactic patterns with no phonological counterpart: Evidence from an artificial lexicon study with 6–7-year-olds and adults"
-date = "2020-11-01T00:00:00+01:00"
+date = "2021-11-01T00:00:00+01:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
@@ -14,10 +14,10 @@ authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Memory and Language*, under review"
+publication = "*Journal of Memory and Language*"
 
 
 # Abstract and optional shortened version.
