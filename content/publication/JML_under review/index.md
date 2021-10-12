@@ -3,7 +3,7 @@ title = "Statistical and explicit learning of graphotactic patterns with no phon
 date = "2020-11-01T00:00:00+01:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniela Singh", "**Anna Samara**", "Elizabeth Wonnacott"]
+authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
 
 # Publication type.
 # Legend:
