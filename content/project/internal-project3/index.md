@@ -4,8 +4,8 @@ external_link: ""
 image:
   caption:
   focal_point: Smart
-summary: "artificial language learning work"
- tags:
+summary: ""
+tags:
 - sociolinguistic learning
 - artificial language learning
 - language acquisition
