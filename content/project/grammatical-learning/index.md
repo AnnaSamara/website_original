@@ -10,6 +10,7 @@ tags:
 - verb-argument structure overgeneralizations
 - entrenchment
 - preemption
+- spoken language
 title: Avoiding overgeneralizations
 url_code: ""
 url_pdf: ""

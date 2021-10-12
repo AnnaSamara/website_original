@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Artificial Language Learning"
+    tag = "ALL"
   
   [[content.filter_button]]
     name = "Spoken language"

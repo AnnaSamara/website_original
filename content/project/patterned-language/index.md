@@ -10,6 +10,7 @@ tags:
 - artificial language learning
 - language acquisition
 - linguistic variation
+- spoken language
 title: Learning patterns of language usage
 url_slides: ""
 url_video: ""

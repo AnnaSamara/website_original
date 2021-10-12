@@ -22,8 +22,8 @@ subtitle = "A brief overview of some ongoing research activity"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Artificial Language Learning"
+    tag = "artificial Language Learning"
   
   [[content.filter_button]]
     name = "Spoken language"
@@ -32,6 +32,10 @@ subtitle = "A brief overview of some ongoing research activity"
   [[content.filter_button]]
     name = "Written language"
     tag = "written language"
+
+  [[content.filter_button]]
+    name = "Spelling"
+    tag = "spelling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

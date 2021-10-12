@@ -6,11 +6,12 @@ image:
   focal_point: Smart
 summary: ""
 tags:
-- Statistical learning
+- statistical learning
 - spelling
 - orthographic learning
 - context-based patterns
 - dyslexia
+- written language
 title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
