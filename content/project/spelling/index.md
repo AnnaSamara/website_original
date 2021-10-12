@@ -3,7 +3,7 @@ date: ongoing
 external_link: ""
 image:
   caption:
-  focal_point: Smart
+  focal_point:
 summary: ""
 tags:
 - statistical learning
