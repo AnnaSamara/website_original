@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Lecture handout used in an introductory session on developmental dyslexia (BSc Psychology, Level 6)
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T00:00:00+01:00"
@@ -8,7 +8,7 @@ event: Teaching
 event_url: 
 featured: false
 image:
-  caption: Lecture slides for an introductory lecture on developmental dyslexia (BSc Psychology)
+  caption: 
   focal_point: Right
 location: 
 math: true
