@@ -15,7 +15,7 @@ tags:
 - Artificial Language Learning
 title: Spelling as statistical learning
 url_code: ""
-url_pdf: url_custom
+url_pdf = url_custom
 url_slides: ""
 url_video: ""
 
