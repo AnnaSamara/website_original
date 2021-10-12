@@ -48,7 +48,7 @@ user_groups:
 I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). In my research, I study literacy and language acquisition processes using artificial language learning methods, that is experiments whereby children and adults learning experimenter designed miniatures language. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations. I am also interested in the underlying causes of developmental dyslexia and sociolinguistic development.
 
 
-I teach core and option module content on language and literacy across Levels 4 to 7 and I am Programme Leader for the [MSc Child & Adolescent Psychology[] (https://www.gre.ac.uk/postgraduate-courses/eduhea/childadolpsych).  
+I teach on language and literacy modules across Levels 4 to 7 and I am Programme Leader for the [MSc Child & Adolescent Psychology] (https://www.gre.ac.uk/postgraduate-courses/eduhea/childadolpsych).  
 
 
   Short bio: I completed my PhD in Psychology at Bangor University, UK in 2014. My doctoral research was funded by a Marie Curie Initial Training Network initiative. Before joining the University of Greenwich in August 2019, I worked as a postdoctoral Research Associate at UCL (2014-2017) and the University of Liverpool (2017-2019) on externally funded projects in Language Acquisition. I continue some of this work, to date.
