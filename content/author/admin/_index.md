@@ -23,7 +23,7 @@ name: Anna Samara
 organizations:
 - name: University of Greenwich
   url: ""
-role: Lecturer in Psychology
+role: Senior Lecturer in Psychology
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,7 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Lecturer in Psychology at the School of Human Sciences, Greenwich University. I am interested in literacy and language development and use artificial learning methods to explore questions about how children learn aspects of written and spoken language. I am also interested in the underlying causes of literacy impairment, e.g., developmental dyslexia.
+I am a Senior Lecturer in Psychology at the School of Human Sciences, Greenwich University. I am interested in literacy and language development and use artificial learning methods to study how children learn aspects of written and spoken language. I am also interested in the underlying causes of literacy impairment, e.g., developmental dyslexia.
 
 
-  *Short bio:* I completed my PhD in Psychology in 2014 at Bangor University, UK. My doctoral research, funded by a Marie Curie ITN initiative, investigated children’s and adults incidental learning’ of probabilistic relationships within and between sounds and letter combinations. Before joining the University of Greenwich (09.2019), I worked as a postdoctoral Research Associate at UCL (2014-2017) and Liverpool University (2017-2019) on projects that investigate children’s ability to extract statistical patterns from spoken input. I continue some of this work by carrying out research on children's sociolinguistic development.
+  *Short bio:* I completed my PhD in Psychology in 2014 at Bangor University, UK. My doctoral research, funded by a Marie Curie ITN initiative, investigated children’s and adults incidental learning’ of probabilistic relationships within and between sounds and letter combinations. Before joining the University of Greenwich in August 2019, I worked as a postdoctoral Research Associate at UCL (2014-2017) and the University of Liverpool (2017-2019) on projects that investigate children’s ability to extract statistical patterns from spoken input. I continue some of this work by carrying out research on children's sociolinguistic development.
