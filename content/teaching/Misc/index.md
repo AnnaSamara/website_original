@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handouts used in the MSc level module "Developmental Disorders of Language, Learning, and Cognition"
+abstract: Guests lecture contributions to BSc Psychology and MSc Conversion modules at the Univerity of Greenwich"
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T00:00:00+01:00"
