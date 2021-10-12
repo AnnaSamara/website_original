@@ -18,9 +18,8 @@ slides:
 summary: 
 tags: []
 title: Literacy development
-#url_code: ""
-links: [{name = "Slides", url="files/literacy_lecture_part1.pdf"}, {name = "Slides2", url="files/literacy_lecture_part1.pdf"}]
-url_pdf: "files/literacy_lecture_part1.pdf"
+url_code: ""
+url_pdf: ["files/literacy_lecture_part1.pdf",  "files/numeracy_lecture_part1.pdf"]
 url_slides: ""
 url_video: ""
 ---
