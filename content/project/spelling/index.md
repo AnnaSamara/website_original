@@ -17,7 +17,6 @@ title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
 url_links: [{name = "Slides", url="files/numeracy_lecture_part1.pdf}, {name = "Slides", url="files/numeracy_lecture_part1.pdf"}]
-
 url_video: ""
 
 
