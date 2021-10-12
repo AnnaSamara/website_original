@@ -33,7 +33,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = [spelling]
+projects = []
 
 # Links (optional).
 #url_pdf = "https://www.sciencedirect.com/science/article/pii/S0749596X21000486"
