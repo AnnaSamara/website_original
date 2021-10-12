@@ -1,5 +1,5 @@
 ---
-date: "2021-10-28T13:00:00+01:00"
+date:
 external_link: ""
 image:
   caption:
