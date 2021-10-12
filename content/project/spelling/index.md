@@ -16,8 +16,9 @@ tags:
 title: Spelling as statistical learning
 url_code: ""
 url_pdf: ""
-url_slides: "files/numeracy_lecture_part1.pdf"
-url_slides2: "files/Developmental_dyslexia_part1.pdf"
+links : [{name = "Slides", url="files/numeracy_lecture_part1.pdf}, {name = "Slides", url="files/numeracy_lecture_part1.pdf"}]
+
+
 url_video: ""
 
 
