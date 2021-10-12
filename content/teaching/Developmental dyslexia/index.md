@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handouts used in a Level 6, BSc Psychology module "Child Psychology & Education"
+abstract: Lecture handouts used in the MSc level module "Developmental Disorders of Language, Learning, and Cognition"
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T00:00:00+01:00"

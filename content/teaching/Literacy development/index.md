@@ -17,9 +17,9 @@ publishDate: "2021-01-01T00:00:00Z"
 slides:
 summary: 
 tags: []
-title: Literacy development
+title: Child Psychology & Education
 url_code: ""
-url_pdf: ["files/literacy_lecture_part1.pdf",  "files/numeracy_lecture_part1.pdf"]
+url_pdf: "files/literacy_lecture_part1.pdf"
 url_slides: ""
 url_video: ""
 ---
