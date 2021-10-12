@@ -1,5 +1,5 @@
 ---
-date: 06 2006
+date: "06 2006"
 external_link: ""
 image:
   caption:
