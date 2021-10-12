@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-#url_pdf = "Oxford_2017.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0749596X21000486"
 url_preprint = "https://psyarxiv.com/8px7n/"
 #url_code = "#"
 url_dataset = "https://osf.io/c42nq/"
