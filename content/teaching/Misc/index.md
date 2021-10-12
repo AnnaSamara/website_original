@@ -1,5 +1,5 @@
 ---
-abstract: Guest lecture contributions to BSc Psychology undergraduate and MSc conversion modules"
+abstract: Lecture handouts used in the MSc level module "Developmental Disorders of Language, Learning, and Cognition"
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-01-01T00:00:00+01:00"
@@ -17,7 +17,7 @@ publishDate: "2021-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: Developmental dyslexia
+title: Miscellaneous
 url_code: ""
 url_pdf: "files/Developmental_dyslexia_part1.pdf"
 url_slides: ""
