@@ -14,7 +14,7 @@ authors = ["Daniela Singh", "Elizabeth Wonnacott", "**Anna Samara**"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of Memory and Language*"
