@@ -36,9 +36,9 @@ selected = false
 projects = []
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://doi.org/10.1016/j.cognition.2018.09.005"
 url_preprint = "https://gala.gre.ac.uk/id/eprint/25125/3/25125%20SAMARA_Statistical_Learning_and_Spelling_2018.pdf"
-url_code = "http://rpubs.com/AnnaSamara/248957"
+url_code = ""
 url_dataset = "https://osf.io/vwz8n/?view_only=1ffac8a65cc74fc9915b8cb493e8b61c"
 #url_project = "#"
 #url_slides = "#"
