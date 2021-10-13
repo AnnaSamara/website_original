@@ -1,5 +1,5 @@
 ---
-abstract: Level 7 (MSc) module at the University of Greenwich"
+abstract: Level 7 (MSc) module at the University of Greenwich
 all_day: false
 authors: ["Anna Samara"]
 date: "2021-09-01T00:00:00+01:00"
