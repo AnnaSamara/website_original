@@ -39,10 +39,10 @@ projects = []
 
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]
 
-url_custom = [{name = "Samara et al. 2017", url = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"}]
+url_custom = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"
 
 #url_preprint = ""
-#url_code = "#"
+#url_code = "http://rpubs.com/AnnaSamara/248957"
 #url_dataset = "http://osf.io/g67pe"
 #url_project = "#"
 #url_slides = "#"
