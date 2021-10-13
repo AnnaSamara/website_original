@@ -1,6 +1,6 @@
 +++
 title = "Artificial Language Learning Methods as a Tool for Sociolinguistic Research"
-date = 2021-01-01T00:00:00
+date = 2021-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Anna Samara**"]
@@ -17,7 +17,7 @@ authors = ["**Anna Samara**"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Routledge Handbook of Second Language Acquisition and Sociolinguistics"
+publication = "Routledge Handbook of Second Language Acquisition and Sociolinguistics. Routledge, Milton Park, Abingdon-on-Thames, Oxfordshire, England, UK"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
