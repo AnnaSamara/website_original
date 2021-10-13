@@ -58,6 +58,8 @@ subtitle = "This space is under construction"
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+links = [{name = "Slides", url="path_to_slide.pdf"}, {name = "Slides", url="path_to_slide2.pdf"}]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
