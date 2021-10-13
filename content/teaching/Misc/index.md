@@ -22,5 +22,5 @@ url_code: ""
 url_pdf: "files/literacy_lecture_part1.pdf"
 url_slides: ""
 url_video: ""
-url_custom = [{name = "Custom Link 1", url = "http://example.org"}, {name = "Custom Link 2", url = "http://example.org"}]
+url_custom: [{name = "Custom Link 1", url = "http://example.org"}, {name = "Custom Link 2", url = "http://example.org"}]
 ---
