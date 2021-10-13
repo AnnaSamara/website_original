@@ -46,7 +46,7 @@ url_dataset = "https://osf.io/vwz8n/?view_only=1ffac8a65cc74fc9915b8cb493e8b61c"
 #url_poster = "#"
 #url_source = "#"
 
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = false
