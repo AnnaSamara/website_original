@@ -20,7 +20,7 @@ tags: []
 title: Children’s sensitivity to novel graphotactic constraints with no phonological
 counterpart: Evidence from an incidental learning task.
 url_code: ""
-url_pdf: "files/daniela.pdf"
+url_pdf: "daniela.pdf"
 url_slides: ""
 url_video: ""
 ---

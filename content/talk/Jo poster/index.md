@@ -19,7 +19,7 @@ summary: A poster exploring factors influencing regularization in child and adul
 tags: []
 title: The role of memory constraints in regularization of unpredictable variation 
 url_code: ""
-url_pdf: "files/BilbaoPoster.pdf"
+url_pdf: "BilbaoPoster.pdf"
 url_slides: ""
 url_video: ""
 ---

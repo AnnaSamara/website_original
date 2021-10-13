@@ -10,7 +10,7 @@ featured: false
 image:
   caption: 
   focal_point: Right
-location: Oxford, United Kindgdom
+location: Oxford University, United Kindgdom
 math: true
 projects: []
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ summary: "Learning to spell is a vital yet understudied part of literacy develop
 tags: []
 title: Spelling as statistical learning. Insights from artificial lexicon studies
 url_code: ""
-url_pdf: "files/Oxford_2017.pdf"
+url_pdf: "Oxford_2017.pdf"
 url_slides: ""
 url_video: ""
 ---

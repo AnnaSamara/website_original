@@ -19,7 +19,7 @@ summary: "Languages exhibit variation which may be conditioned or partially cond
 tags: []
 title: Statistical learning over sociolinguistic cues in children and adults
 url_code: ""
-url_pdf: "files/Potsdam_sociolinguistics.pdf"
+url_pdf: "Potsdam_sociolinguistics.pdf"
 url_slides: ""
 url_video: ""
 ---
