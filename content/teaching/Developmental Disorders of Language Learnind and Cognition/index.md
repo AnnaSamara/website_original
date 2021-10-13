@@ -15,7 +15,7 @@ math: true
 projects: []
 publishDate: "2021-09-01T00:00:00Z"
 slides:
-summary: Selection of lecture handouts used in MSc Child & Adolescent Psychology (University of Greenwich) module "Developmental Disorders of Language Learning and Cognition"
+summary: Selection of lecture handouts used in MSc Child & Adolescent Psychology module "Developmental Disorders of Language Learning and Cognition"
 tags: []
 title: Developmental disorders of Language Learning and Cognition
 counterpart:
@@ -25,5 +25,7 @@ url_slides: ""
 url_video:
 
 ---
+Selection of lecture handouts used in MSc Child & Adolescent Psychology module "Developmental Disorders of Language Learning and Cognition" (2021- )
+
 How we learn
 [[part 1]] (https://anna-samara.netlify.app/How we learn-part1_AS.pdf) [[part 2]] (https://anna-samara.netlify.app/How we learn-part2_AS.pdf)

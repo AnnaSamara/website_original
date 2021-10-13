@@ -15,7 +15,7 @@ math: true
 projects: []
 publishDate: "2021-09-01T00:00:00Z"
 slides:
-summary: Selection of lecture handouts used in BSc Psychology and MSc Conversion programmes at the University of Greenwich
+summary: Selection of lecture handouts used in BSc Psychology and MSc Conversion programmes
 tags: []
 title: Miscellaneous
 url_code: ""
@@ -23,6 +23,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+Selection of lecture handouts used in BSc Psychology and MSc Conversion programmes at Greenwich University
+
 
 Numbers and culture: 
 [[part 1]] (https://anna-samara.netlify.app/Numbers&Culture_part1.pdf) [[part 2]] (https://anna-samara.netlify.app/Numbers&Culture_part2.pdf) [[part 3]] (https://anna-samara.netlify.app/Numbers&Culture_part3.pdf)
