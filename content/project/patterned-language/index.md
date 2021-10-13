@@ -12,7 +12,7 @@ tags:
 - linguistic variation
 - spoken language
 title: Learning patterns of language usage
-url_slides: "files/Potsdam_sociolinguistics.pdf"
+url_slides: ""
 url_video: ""
 ---
 
