@@ -23,3 +23,5 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+Numbers and culture [part 1] (https://anna-samara.netlify.app/Numbers&Culture_part1.pdf) [part 2] (https://anna-samara.netlify.app/Numbers&Culture_part2.pdf) [part 3] (https://anna-samara.netlify.app/Numbers&Culture_part3.pdf)
