@@ -45,7 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). In my research, I study literacy and language acquisition processes using [artificial language learning methods] (files/ALL-Samara.pdf), that is, experiments whereby children and adults learning experimenter designed miniatures language. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations via statistical learning processes. I am also interested in how these processes contribute to dyslexia and sociolinguistic development.
+I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). In my research, I study literacy and language acquisition processes using [artificial language learning methods] (https://anna-samara.netlify.app/ALL-Samara.pdf), that is, experiments whereby children and adults learning experimenter designed miniatures language. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations via statistical learning processes. I am also interested in how these processes contribute to dyslexia and sociolinguistic development.
 
 As Local Network Lead for the [UKRN] (https://www.ukrn.org/) at Greenwich University, I follow and promote open science practices.
 
