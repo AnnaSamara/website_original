@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handouts used in BSc Psychology and MSc Conversion programmes at the University of Greenwich
+abstract: BSc Psychology and MSc Conversion programme module slides
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-09-01T00:00:00+01:00"
@@ -15,7 +15,7 @@ math: true
 projects: []
 publishDate: "2021-09-01T00:00:00Z"
 slides:
-summary: 
+summary: Selection of lecture handouts used in BSc Psychology and MSc Conversion programmes at the University of Greenwich
 tags: []
 title: Miscellaneous
 url_code: ""
