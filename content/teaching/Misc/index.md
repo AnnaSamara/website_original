@@ -1,8 +1,7 @@
 +++
 
-abstract = Guests lecture contributions to BSc Psychology and MSc Conversion modules at the University of Greenwich
+abstract = "Guests lecture contributions to BSc Psychology and MSc Conversion modules at the University of Greenwich"
 
-all_day = false
 authors =[“Anna Samara"]
 date = "2020-10-12"
 date_end = ""
