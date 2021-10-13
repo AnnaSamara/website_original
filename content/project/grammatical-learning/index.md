@@ -1,5 +1,5 @@
 ---
-date: "2017-10-00T00:00:00+01:00"
+date: "2017-10-01T00:00:00+01:00"
 external_link: ""
 image:
   caption:
@@ -21,4 +21,4 @@ url_video: ""
 
 This strand of work uses artificial language learning methods to explore different theories about how we children lean to avoid overgeneralization errors: When children learn their mother tongue, they sometimes make errors such as “he giggled me!”, “she fell me over!” or “carry me teddy”. Learning to avoid these mistakes in English (and many other languages of the world) involves learning that some verbs can appear in a two-person sentence (e.g., “Bob tickled Wendy”), while other verbs cannot (e.g., “Bob giggled Wendy”). Evidence suggests that children get little direct correction for these types of errors, yet they eventually stop making them. What discourages children them from producing such incorrect sentences in the long term?
 
-A series of ongoing experiments funded by the ERC funded [project] (http://pcwww.liv.ac.uk/~ambridge/CLASS.htm) awarded to [Professor Ben Ambridge] (https://www.liverpool.ac.uk/population-health/staff/ben-ambridge/) investigate whether frequency may be the key: for example, does repeated exposure to the verb “giggle” within sentences that mean “causing someone to laugh” (e.g., “The funny clown/the teacher made the audience/the students giggle”) gradually discourage speakers from using it in a two-person sentence? Some early findings are summarized in this [poster presentation] (https://anna-samara.netlify.app/ALL-grammatical-constructions.pdf).
+A series of ongoing experiments funded by the ERC funded [CLASS project] (http://pcwww.liv.ac.uk/~ambridge/CLASS.htm) awarded to collaborator [Professor Ben Ambridge] (https://www.liverpool.ac.uk/population-health/staff/ben-ambridge/) investigate whether frequency may be the key: for example, does repeated exposure to the verb “giggle” within sentences that mean “causing someone to laugh” (e.g., “The funny clown/the teacher made the audience/the students giggle”) gradually discourage speakers from using it in a two-person sentence? Some early findings from this work are summarized in this [poster presentation] (https://anna-samara.netlify.app/ALL-grammatical-constructions.pdf).
