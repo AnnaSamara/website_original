@@ -13,8 +13,8 @@ tags:
 - spoken language
 - Artificial Language Learning
 title: Avoiding overgeneralizations
-url_code: ""
-url_pdf: ""
+url_code: "https://rpubs.com/AnnaSamara/539534"
+url_pdf: "files/ALL-grammatical-constructions.pdf"
 url_slides: ""
 url_video: ""
 ---
