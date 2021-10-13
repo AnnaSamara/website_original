@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handouts used in the Level 6 BSc Psychology module (University of Greenwich) "Child Psychology & Education"
+abstract: Lecture handouts used in the Level 6 BSc Psychology module (University of Greenwich) "Child Psychology & Education
 all_day: false
 authors: ["Anna Samara"]
 date: "2020-09-01T00:00:00+01:00"
