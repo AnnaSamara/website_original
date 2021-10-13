@@ -1,6 +1,5 @@
 ---
-
-date:
+date: "2021-10-00T00:00:00+01:00"
 external_link: 
 image:
   caption:
@@ -17,6 +16,7 @@ tags:
 - Artificial Language Learning
 title: Spelling as statistical learning
 url_code: ""
+url_slides: "files/CREL_talk.pdf"
 url_pdf: ""
 url_video: ""
 

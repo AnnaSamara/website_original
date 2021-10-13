@@ -1,5 +1,5 @@
 ---
-date: "06 2006"
+date: "2021-10-00T00:00:00+01:00"
 external_link: ""
 image:
   caption:
