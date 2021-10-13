@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: "under construction"
+  image: "This section is under construction"
 title: Teaching resources
 view: 4
 ---
