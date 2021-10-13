@@ -24,5 +24,6 @@ url_pdf: ""
 url_slides: ""
 url_video:
 
-url_custom: [{name = "Custom Link 1", url = "http://example.org"}, {name = "Custom Link 2", url = "http://example.org"}]
 ---
+How we learn
+[[part 1]] (https://anna-samara.netlify.app/How we learn-part1_AS.pdf) [[part 2]] (https://anna-samara.netlify.app/How we learn-part2_AS.pdf)

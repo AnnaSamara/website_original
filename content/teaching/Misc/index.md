@@ -26,3 +26,9 @@ url_video: ""
 
 Numbers and culture: 
 [[part 1]] (https://anna-samara.netlify.app/Numbers&Culture_part1.pdf) [[part 2]] (https://anna-samara.netlify.app/Numbers&Culture_part2.pdf) [[part 3]] (https://anna-samara.netlify.app/Numbers&Culture_part3.pdf)
+
+Introduction to Language: 
+[[part 1]] (https://anna-samara.netlify.app/Introduction_Language_part1.pdf) [[part 2]] (https://anna-samara.netlify.app/Introduction_Language_part2.pdf)
+
+Cross-linguistic literacy development: 
+[[part 1]] (https://anna-samara.netlify.app/cross-linguistic_final.pdf)
