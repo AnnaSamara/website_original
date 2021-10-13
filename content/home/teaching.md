@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Teaching resources"
-subtitle = "In progress"
+subtitle = "This space is under construction"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
