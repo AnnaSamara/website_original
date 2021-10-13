@@ -3,7 +3,7 @@ title = "Statistical learning of orthographic patterns in typically developing a
 date = 2014-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Anna Samara**", "Marketa Caravolas"]
+authors = ["**Anna Samara**"]
 
 # Publication type.
 # Legend:
@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf= "THESIS_FINAL_CORRECTED.pdf"
+url_pdf= "files/THESIS_FINAL_CORRECTED.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
