@@ -1,5 +1,5 @@
 ---
-abstract: Lecture handouts used in MSc Child & Adolescent Psychology (Univeristy of Greenwich) module "Developmental Disorders of Language Learning and Cognition"
+abstract: Lecture handouts used in MSc Child & Adolescent Psychology (University of Greenwich) module "Developmental Disorders of Language Learning and Cognition"
 all_day: false
 authors: ["Anna Samara"]
 date: "2021-09-01T00:00:00+01:00"
