@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf: "THESIS_FINAL_CORRECTED.pdf"
+url_pdf= "THESIS_FINAL_CORRECTED.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
