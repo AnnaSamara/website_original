@@ -37,13 +37,9 @@ projects = []
 
 # Links (optional).
 
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]
-
-url_custom = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"
-
-#url_preprint = ""
-#url_code = "http://rpubs.com/AnnaSamara/248957"
-#url_dataset = "http://osf.io/g67pe"
+url_preprint = "https://www.sciencedirect.com/science/article/pii/S0010028516301426"
+url_code = "http://rpubs.com/AnnaSamara/248957"
+url_dataset = "http://osf.io/g67pe"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
