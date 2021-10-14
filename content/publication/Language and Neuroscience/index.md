@@ -14,10 +14,10 @@ authors = ["Helen Brown", "Kenny Smith", "**Anna Samara**", "Elizabeth Wonnacott
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Language, Cognition, & Neuroscience*, under review"
+publication = "*Language, Cognition, & Neuroscience*, accepted"
 #publication_short = "In *Language, Cognition, & Neuroscience*"
 
 # Abstract and optional shortened version.
