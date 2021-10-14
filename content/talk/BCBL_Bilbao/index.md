@@ -1,5 +1,5 @@
 ---
-abstract: A poster exploring factors influencing regularization in child and adult language learning. Presented by MSc student Jo Saul at the Statistical Learning conference.
+abstract: A poster exploring factors influencing regularization in child and adult language learning. Presented by Jo Saul at the Statistical Learning conference.
 all_day: false
 authors: ["Jo Saul", "Anna Samara", "Elizabeth Wonnacott"]
 date: "2017-06-28T13:00:00+01:00"
@@ -23,3 +23,4 @@ url_pdf: "BilbaoPoster.pdf"
 url_slides: ""
 url_video: ""
 ---
+A poster exploring factors influencing regularization in child and adult language learning. Presented by Jo Saul at the Statistical Learning conference.
