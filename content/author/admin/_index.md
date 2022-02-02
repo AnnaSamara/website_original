@@ -21,9 +21,9 @@ interests:
 - Bayes Factors
 name: Anna Samara
 organizations:
-- name: University of Greenwich
+- name: University College London
   url: ""
-role: Senior Lecturer in Psychology
+role: Lecturer (Teaching)
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,11 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Senior Lecturer in Psychology based in the [School of Human Sciences, Greenwich University] (https://www.gre.ac.uk/ehhs/human-sciences). I study literacy and language acquisition processes using [artificial language learning methods] (https://anna-samara.netlify.app/ALL-Samara.pdf), that is, experiments whereby children and adults learn experimenter designed miniatures languages. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations via statistical learning processes. I am also interested in how these processes contribute to dyslexia and sociolinguistic development.
-
-As Local Network Lead for the [UKRN] (https://www.ukrn.org/) at Greenwich University, I follow and promote open science practices.
-
-I teach on language and literacy modules across Levels 4 to 7 and I am Programme Leader for the [MSc Child & Adolescent Psychology] (https://www.gre.ac.uk/postgraduate-courses/eduhea/childadolpsych).  
+I am a Lecturer (Teaching) based in [UCL's Division of Psychology and Language Sciences] (https://www.ucl.ac.uk/pals/). I study literacy and language acquisition processes using [artificial language learning methods] (https://anna-samara.netlify.app/ALL-Samara.pdf), that is, experiments whereby children and adults learn experimenter designed miniatures languages. One central strand of this work investigates how children learn probabilistic relationships between sound and letter combinations via statistical learning processes. I am also interested in how these processes contribute to dyslexia and sociolinguistic development.  
 
 
-I completed my PhD in Psychology at Bangor University, UK in 2014. My doctoral research was funded by a Marie Curie [Initial Training Network initiative] (https://cordis.europa.eu/project/id/215961/reporting). Before joining the University of Greenwich in August 2019, I worked as a postdoctoral Research Associate at UCL (2014-2017) and the University of Liverpool (2017-2019) on externally funded projects on language. I continue some of this work with [collaborators at Oxford University] (https://languagelearninglab-ox.com/).
+Short bio: I completed my PhD in Psychology at Bangor University, UK in 2014. My doctoral research was funded by a Marie Curie [Initial Training Network initiative] (https://cordis.europa.eu/project/id/215961/reporting). Before joining the University of Greenwich in August 2019, I worked as a postdoctoral Research Associate at UCL (2014-2017) and the University of Liverpool (2017-2019) on externally funded projects on language. I continue some of this work with [collaborators at Oxford University] (https://languagelearninglab-ox.com/).

@@ -60,10 +60,10 @@ contact_links = [
   ]
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "a.samara@gre.ac.uk"
-phone = "+44 (0) 20 8331 8107"
+email = "Anna.Samara@ucl.ac.uk"
+phone = ""
 
-address = "Old Royal Naval College, Park Row, London SE10 9LS, United Kingdom"
+address = "Division of Psychology and Language Sciences, UCL, Chandler House, 2 Wakefield Street, London, WC1N 1PF"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours =  " "
@@ -89,8 +89,8 @@ address = "Old Royal Naval College, Park Row, London SE10 9LS, United Kingdom"
 #   3: OpenStreetMap (Mapbox)
 map = 1
 map_api_key = "AIzaSyDbSdY0vNBH1I60nHBX8fi3IDRfqH0uCS0"
-latitude = "51.4835"
-longitude = "-0.0036"
+latitude = "51.52600053117499"
+longitude = "-0.12280598850565662"
 zoom = 15
 
 ############################
